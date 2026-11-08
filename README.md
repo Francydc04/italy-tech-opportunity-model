@@ -1,4 +1,4 @@
-# Integrating Four Institutional Reports into a Relational Model of Technology Opportunity in Italy
+# Data-First Technology Scouting: Turning Unstructured Reports into a Scored SQL Model of Venture Opportunities in Italy
 
 **Research question:** If technology readiness, research leadership, labour-market demand and Italian venture capital are read side by side, which technologies show the strongest case for a new venture in Italy, and how much of that ranking survives changes in the assumptions?
 
