@@ -1,0 +1,14 @@
+canonical_technology,score_multiplicative,rank_multiplicative,score_floor,rank_floor
+AI & Machine Learning,91.0,1.0,91.0,1.0
+Cybersecurity,69.38,3.0,85.56,2.0
+Autonomous Systems,78.0,2.0,78.0,3.0
+Connectivity & 5G,60.94,4.0,75.16,4.0
+FinTech & Blockchain,60.0,6.0,74.0,5.0
+Clean Energy Technologies,60.5,5.0,60.5,6.0
+Biomedical & Therapeutics,32.5,8.0,55.25,7.0
+Advanced Materials,43.51,7.0,53.66,8.0
+Quantum Technologies,30.62,9.0,52.06,9.0
+Space Technology,30.0,10.0,51.0,10.0
+Semiconductors & Photonics,24.38,12.0,41.44,11.0
+Robotics & Drones,23.75,13.0,40.38,12.0
+Biotechnology & Synthetic Biology,28.93,11.0,35.68,13.0

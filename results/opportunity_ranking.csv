@@ -1,0 +1,14 @@
+canonical_technology,tech_code,readiness,capability_access,talent_pull,capital_gap,coverage,base_score,score,tier,score_rank
+AI & Machine Learning,AI,1.0,0.75,1.0,0.8,1.0,0.91,91.0,High,1
+Cybersecurity,CYB,1.0,1.0,0.8,,0.75,0.9249999999999999,85.56,High,2
+Autonomous Systems,AUT,1.0,1.0,0.8,0.2,1.0,0.78,78.0,High,3
+Connectivity & 5G,CON,1.0,0.25,1.0,,0.75,0.8124999999999999,75.16,High,4
+FinTech & Blockchain,FIN,,0.5,1.0,0.8,0.75,0.8000000000000002,74.0,High,5
+Clean Energy Technologies,CLE,0.75,0.5,0.8000000000000002,0.2,1.0,0.605,60.5,Medium,6
+Biomedical & Therapeutics,MED,0.75,0.5,,,0.5,0.6499999999999999,55.25,Medium,7
+Advanced Materials,MAT,0.75,0.5555555555555556,,0.35,0.75,0.5801587301587302,53.66,Medium,8
+Quantum Technologies,QUA,,0.875,,0.35,0.5,0.6124999999999999,52.06,Medium,9
+Space Technology,SPA,,1.0,,0.2,0.5,0.6,51.0,Medium,10
+Semiconductors & Photonics,SEM,,0.625,,0.35,0.5,0.4875,41.44,Low,11
+Robotics & Drones,ROB,,0.75,,0.2,0.5,0.47500000000000003,40.38,Low,12
+Biotechnology & Synthetic Biology,BIO,0.5,0.25,,0.35,0.75,0.3857142857142858,35.68,Low,13

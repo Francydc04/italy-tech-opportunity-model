@@ -1,0 +1,11 @@
+record_id,maturity_band,rationale
+WEF2025_TOP10_0001,early_commercial,"Early commercialisation; EV body panels and drone frames"
+WEF2025_TOP10_0002,early_commercial,"First commercial plants (SaltPower since 2015, OsmoRhone 2024)"
+WEF2025_TOP10_0003,early_commercial,"Gen III operational; Gen IV and SMRs under development"
+WEF2025_TOP10_0004,pilot_clinical,"Phase II and III clinical trials"
+WEF2025_TOP10_0005,pilot_clinical,"Phase II/III trials; approval pending efficacy data"
+WEF2025_TOP10_0006,early_commercial,"Commercial for glucose; early commercial for new targets"
+WEF2025_TOP10_0007,early_commercial,"Green-hydrogen ammonia proven and scaling; next-gen routes unproven"
+WEF2025_TOP10_0008,pilot_clinical,"Clinical trials for main indications; regulation still evolving"
+WEF2025_TOP10_0009,deployment,"Active deployment; spectrum allocated by FCC, EU and China"
+WEF2025_TOP10_0010,deployment,"Integrated in major AI platforms (SynthID, VideoSeal)"

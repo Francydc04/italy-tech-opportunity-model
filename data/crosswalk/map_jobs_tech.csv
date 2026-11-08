@@ -1,0 +1,15 @@
+record_id,tech_code,signal_role,rationale
+WEFJ25_0001,AI,demand,Big data specialists build and run AI pipelines
+WEFJ25_0002,FIN,demand,FinTech engineers
+WEFJ25_0003,AI,demand,AI and ML specialists
+WEFJ25_0005,CYB,demand,Security management
+WEFJ25_0007,AUT,demand,Autonomous vehicle specialists
+WEFJ25_0007,CLE,demand,Electric vehicle specialists
+WEFJ25_0010,CON,demand,IoT specialists depend on connectivity
+WEFJ25_0011,AI,demand,Data scientists
+WEFJ25_0012,CLE,demand,Environmental engineers
+WEFJ25_0013,CYB,demand,Information security analysts
+WEFJ25_0015,CLE,demand,Renewable energy engineers
+WEFJ25_0016,AI,displacement,Data entry is the most automation-exposed clerical role
+WEFJ25_0017,FIN,displacement,Bank tellers are displaced by digital banking
+WEFJ25_0026,FIN,displacement,Bookkeeping and payroll automated by fintech tools

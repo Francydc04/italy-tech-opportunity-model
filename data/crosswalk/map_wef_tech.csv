@@ -1,0 +1,16 @@
+record_id,tech_code,rationale
+WEF2025_TOP10_0001,CLE,Structural batteries store energy in load-bearing parts (EVs)
+WEF2025_TOP10_0001,MAT,Enabled by composite materials science
+WEF2025_TOP10_0002,CLE,Osmotic power is renewable generation
+WEF2025_TOP10_0003,CLE,Advanced nuclear and SMRs are low-carbon generation
+WEF2025_TOP10_0004,MED,Engineered living therapeutics are a therapeutic modality
+WEF2025_TOP10_0004,BIO,Built on engineered microorganisms
+WEF2025_TOP10_0005,MED,GLP-1 repurposing for neurodegeneration is a therapeutic
+WEF2025_TOP10_0006,MED,Biochemical sensing is a diagnostic platform
+WEF2025_TOP10_0007,CLE,Green ammonia decarbonises fertiliser production
+WEF2025_TOP10_0008,MAT,Nanozymes are engineered nanomaterials
+WEF2025_TOP10_0008,MED,Main clinical use in diagnostics and therapy
+WEF2025_TOP10_0009,AUT,Collaborative sensing underpins V2X autonomy
+WEF2025_TOP10_0009,CON,Relies on low-latency vehicular communication
+WEF2025_TOP10_0010,AI,Watermarking of AI-generated content
+WEF2025_TOP10_0010,CYB,Content provenance and authenticity

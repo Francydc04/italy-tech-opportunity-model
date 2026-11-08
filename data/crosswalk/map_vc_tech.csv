@@ -1,0 +1,11 @@
+record_id,tech_code,granularity,rationale
+itvc24_0002,CLE,direct,CleanTech sector
+itvc24_0003,SPA,direct,Space technology sector
+itvc24_0004,ROB,direct,Robotics and drones sector
+itvc24_0004,AUT,direct,Autonomous systems are funded within robotics and drones
+itvc24_0005,AI,direct,AI and ML sector
+itvc24_0007,FIN,direct,FinTech sector
+itvc24_0008,QUA,aggregate,Deeptech aggregate (no quantum breakdown in the report)
+itvc24_0008,SEM,aggregate,Deeptech aggregate (no semiconductor breakdown in the report)
+itvc24_0008,MAT,aggregate,Deeptech aggregate (no materials breakdown in the report)
+itvc24_0008,BIO,aggregate,Deeptech aggregate (no biotech breakdown in the report)

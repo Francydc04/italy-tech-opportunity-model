@@ -1,0 +1,43 @@
+record_id,tech_code,rationale
+ASPI_CTT_2023_QC_001,QUA,Quantum computing
+ASPI_CTT_2023_QC_002,QUA,Quantum-resistant cryptography
+ASPI_CTT_2023_QC_002,CYB,Protects encrypted data against quantum attacks
+ASPI_CTT_2023_QC_003,QUA,Quantum key distribution
+ASPI_CTT_2023_QC_004,QUA,Quantum sensing
+ASPI_CTT_2023_QC_005,CON,5G and 6G radio-frequency communications
+ASPI_CTT_2023_QC_006,CON,Optical communications
+ASPI_CTT_2023_QC_007,AI,AI algorithms
+ASPI_CTT_2023_QC_007,SEM,Hardware accelerators are chips
+ASPI_CTT_2023_QC_008,FIN,Distributed ledgers
+ASPI_CTT_2023_QC_009,AI,Advanced data analytics
+ASPI_CTT_2023_QC_010,AI,Machine learning
+ASPI_CTT_2023_QC_011,CYB,Protective cybersecurity
+ASPI_CTT_2023_QC_012,SEM,High-performance computing hardware
+ASPI_CTT_2023_QC_013,SEM,Integrated circuit design and fabrication
+ASPI_CTT_2023_QC_014,AI,Natural language processing
+ASPI_CTT_2023_MAT_001,MAT,Nanoscale materials
+ASPI_CTT_2023_MAT_002,MAT,Coatings
+ASPI_CTT_2023_MAT_003,MAT,Smart materials
+ASPI_CTT_2023_MAT_004,MAT,Composite materials
+ASPI_CTT_2023_MAT_005,MAT,Metamaterials
+ASPI_CTT_2023_MAT_006,MAT,Precision machining
+ASPI_CTT_2023_MAT_008,CLE,Critical minerals feed batteries and renewables supply chains
+ASPI_CTT_2023_MAT_009,MAT,Magnets and superconductors
+ASPI_CTT_2023_MAT_011,MAT,Flow chemistry is an advanced process technology
+ASPI_CTT_2023_MAT_012,MAT,Additive manufacturing
+ASPI_CTT_2023_ENE_001,CLE,Hydrogen and ammonia for power
+ASPI_CTT_2023_ENE_002,CLE,Supercapacitors are energy storage
+ASPI_CTT_2023_ENE_003,CLE,Electric batteries
+ASPI_CTT_2023_ENE_004,CLE,Photovoltaics
+ASPI_CTT_2023_ENE_005,CLE,Nuclear fuel cycle
+ASPI_CTT_2023_ENE_007,CLE,Biofuels
+ASPI_CTT_2023_ENE_008,CLE,Nuclear energy
+ASPI_CTT_2023_BIO_001,BIO,Synthetic biology
+ASPI_CTT_2023_BIO_002,BIO,Biological manufacturing
+ASPI_CTT_2023_BIO_003,MED,Vaccines and medical countermeasures
+ASPI_CTT_2023_SEN_001,SEM,Photonic sensors
+ASPI_CTT_2023_DEF_002,ROB,Drones and collaborative robots
+ASPI_CTT_2023_DEF_003,SPA,Small satellites
+ASPI_CTT_2023_DEF_004,AUT,Autonomous systems operation
+ASPI_CTT_2023_DEF_005,ROB,Advanced robotics
+ASPI_CTT_2023_DEF_006,SPA,Space launch

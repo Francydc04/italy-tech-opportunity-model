@@ -1,0 +1,51 @@
+erDiagram
+    source_report ||--o{ wef_emerging_tech : provides
+    source_report ||--o{ aspi_critical_tech : provides
+    source_report ||--o{ wef_jobs : provides
+    source_report ||--o{ italian_vc : provides
+    wef_emerging_tech ||--o{ bridge_wef : "record_id"
+    aspi_critical_tech ||--o{ bridge_aspi : "record_id"
+    wef_jobs ||--o{ bridge_jobs : "record_id"
+    italian_vc ||--o{ bridge_vc : "record_id"
+    canonical_technology ||--o{ bridge_wef : tech_code
+    canonical_technology ||--o{ bridge_aspi : tech_code
+    canonical_technology ||--o{ bridge_jobs : tech_code
+    canonical_technology ||--o{ bridge_vc : tech_code
+    canonical_technology ||--|| tech_opportunity : scored
+    source_report { text source_id PK
+        text lens }
+    wef_emerging_tech { text record_id PK
+        text entity_name
+        text page_ref
+        real maturity_score }
+    aspi_critical_tech { text record_id PK
+        text lead_country
+        text monopoly_risk_level
+        text page_ref }
+    wef_jobs { text record_id PK
+        text outlook_direction
+        int reskilling_need_level
+        int productivity_need_level }
+    italian_vc { text record_id PK
+        text entity_type
+        text capital_trend
+        int policy_tailwind }
+    canonical_technology { text tech_code PK
+        text canonical_technology }
+    bridge_wef { text record_id FK
+        text tech_code FK }
+    bridge_aspi { text record_id FK
+        text tech_code FK }
+    bridge_jobs { text record_id FK
+        text tech_code FK
+        text signal_role }
+    bridge_vc { text record_id FK
+        text tech_code FK
+        text granularity }
+    tech_opportunity { text tech_code PK
+        real readiness
+        real capability_access
+        real talent_pull
+        real capital_gap
+        real score "generated"
+        text tier "generated" }
